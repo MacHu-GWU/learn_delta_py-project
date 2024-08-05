@@ -54,21 +54,3 @@ Welcome to ``learn_delta_py`` Documentation
     :target: https://learn-delta-py.readthedocs.io/en/latest/
 
 Learn DeltaLake with Python.
-
-
-.. _install:
-
-Install
-------------------------------------------------------------------------------
-
-``learn_delta_py`` is released on PyPI, so all you need is to:
-
-.. code-block:: console
-
-    $ pip install learn-delta-py
-
-To upgrade to latest version:
-
-.. code-block:: console
-
-    $ pip install --upgrade learn-delta-py
